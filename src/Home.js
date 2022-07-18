@@ -9,6 +9,7 @@ export default class Home extends Component {
         <div>3</div>
         <div>4</div>
         <div>5</div>
+        <div>Kumar</div>
       </div>
     )
   }
