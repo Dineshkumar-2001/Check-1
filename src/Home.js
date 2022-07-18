@@ -15,7 +15,7 @@ export default class Home extends Component {
         <div>9</div>
         <div>10</div>
         <div>11</div>
-        
+        <div>12</div>
       </div>
     )
   }
